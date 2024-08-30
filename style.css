@@ -1,0 +1,46 @@
+.img{
+    border-radius: 300px;
+    width: 50px;
+}
+
+.fix{
+    position: fixed;
+}
+
+.bi{
+    margin: 8px;
+}
+.bi:hover{
+    color:black;
+}
+
+.col{
+    text-align: center;
+}
+
+.about-text{
+    text-align: justify;
+    font-style: italic;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.header{
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.header h3{
+    margin-top: 50px;
+}
+
+
+.fs-4 a{
+    text-decoration: none;
+}
+
+.body{
+    overflow: hidden;
+}
+
